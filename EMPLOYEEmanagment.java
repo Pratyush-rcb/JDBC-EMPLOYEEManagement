@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class EMPLOYEEmanagment {
     static final String DB_URL = "jdbc:mysql://localhost:3306/students";
     static final String DB_USER = "root";
-    static final String DB_PASSWORD = "root@1234";
+    static final String DB_PASSWORD = "";
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
